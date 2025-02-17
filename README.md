@@ -1,6 +1,6 @@
 # javaFundamental
 
 jawaban untuk soalan praktikum Teknik Pemograman Minggu ke dua.
-oleh:
+oleh: 
 Nama :Salman Alfarisi <br />
-NIM  :241524060
+NIM  :241524060 <br />
